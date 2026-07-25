@@ -255054,7 +255054,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-07-24T00:48:39.000Z",
-      "updated_at": "2026-07-25T02:15:31.000Z",
+      "updated_at": "2026-07-25T04:40:26.000Z",
       "resolved_at": null,
       "store_number": "653",
       "type": "Procedural",
@@ -255740,11 +255740,11 @@
     {
       "id": 512268,
       "subject": "LP - 570 Reg2 Drawer will not open",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-07-24T15:51:23.000Z",
-      "updated_at": "2026-07-25T02:15:31.000Z",
+      "updated_at": "2026-07-25T04:39:32.000Z",
       "resolved_at": null,
       "store_number": "570",
       "type": "Incident",
@@ -255997,7 +255997,7 @@
       "priority_name": "1-Low",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-07-24T16:20:57.000Z",
-      "updated_at": "2026-07-25T02:15:31.000Z",
+      "updated_at": "2026-07-25T04:40:37.000Z",
       "resolved_at": null,
       "store_number": "46",
       "type": "Incident",
@@ -257441,5 +257441,5 @@
     }
   ],
   "count": 11193,
-  "updated": "2026-07-25T04:54:24.548Z"
+  "updated": "2026-07-25T05:25:38.075Z"
 }
