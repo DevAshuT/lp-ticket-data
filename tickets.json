@@ -247878,7 +247878,7 @@
       "priority_name": "3-High",
       "group_name": "LP Internal Support",
       "created_at": "2026-07-21T15:31:30.000Z",
-      "updated_at": "2026-07-25T15:19:18.000Z",
+      "updated_at": "2026-07-26T01:06:09.000Z",
       "resolved_at": null,
       "store_number": "430",
       "type": "Hardware",
@@ -259534,5 +259534,5 @@
     }
   ],
   "count": 11284,
-  "updated": "2026-07-26T01:54:08.610Z"
+  "updated": "2026-07-26T02:24:05.687Z"
 }
