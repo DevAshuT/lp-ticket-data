@@ -261555,8 +261555,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 512654,
+      "subject": "LP - 13 Pinpad offline message on multiple registers",
+      "status_name": "Open",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L2 Support",
+      "created_at": "2026-07-27T10:15:17.000Z",
+      "updated_at": "2026-07-27T10:16:46.000Z",
+      "resolved_at": null,
+      "store_number": "13",
+      "type": "Incident",
+      "category": "Pin Pad Offline",
+      "subcategory": "Pinpad Offline",
+      "agent": "Unassigned",
+      "contact_name": "",
+      "is_open": true,
+      "territory": "1",
+      "region": "1",
+      "district": "5",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 11372,
-  "updated": "2026-07-27T10:54:17.456Z"
+  "count": 11373,
+  "updated": "2026-07-27T11:24:07.915Z"
 }
