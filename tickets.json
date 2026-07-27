@@ -261532,8 +261532,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 512652,
+      "subject": "LP - 505 Register Frozen",
+      "status_name": "Open",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L2 Support",
+      "created_at": "2026-07-27T09:09:13.000Z",
+      "updated_at": "2026-07-27T09:09:14.000Z",
+      "resolved_at": null,
+      "store_number": "505",
+      "type": "StorePortalTicket",
+      "category": "",
+      "subcategory": "",
+      "agent": "Unassigned",
+      "contact_name": "",
+      "is_open": true,
+      "territory": "1",
+      "region": "1",
+      "district": "5",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 11371,
-  "updated": "2026-07-27T09:54:18.971Z"
+  "count": 11372,
+  "updated": "2026-07-27T10:24:17.313Z"
 }
