@@ -263238,11 +263238,11 @@
     {
       "id": 512757,
       "subject": "LP - 668  Unable to access OMNI with correct store number.",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "1-Low",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-07-27T18:54:31.000Z",
-      "updated_at": "2026-07-28T03:12:23.000Z",
+      "updated_at": "2026-07-28T04:52:51.000Z",
       "resolved_at": null,
       "store_number": "668",
       "type": "Incident",
@@ -264065,5 +264065,5 @@
     }
   ],
   "count": 11481,
-  "updated": "2026-07-28T04:54:11.624Z"
+  "updated": "2026-07-28T05:24:08.596Z"
 }
