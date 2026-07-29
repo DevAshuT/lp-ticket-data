@@ -254774,11 +254774,11 @@
     {
       "id": 512200,
       "subject": "LP - 145 Shipment not reflecting in Omni portal to receive",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-07-23T20:58:30.000Z",
-      "updated_at": "2026-07-29T00:15:36.000Z",
+      "updated_at": "2026-07-29T09:01:35.000Z",
       "resolved_at": null,
       "store_number": "145",
       "type": "Incident",
@@ -255073,11 +255073,11 @@
     {
       "id": 512223,
       "subject": "LP-653 Unable to receive Vendor Shipment",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-07-24T00:48:39.000Z",
-      "updated_at": "2026-07-29T02:15:39.000Z",
+      "updated_at": "2026-07-29T08:59:48.000Z",
       "resolved_at": null,
       "store_number": "653",
       "type": "Procedural",
@@ -257281,11 +257281,11 @@
     {
       "id": 512376,
       "subject": "LP - 3017 Store transfers should be closed but reflecting open in POS",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-07-24T22:49:39.000Z",
-      "updated_at": "2026-07-28T23:15:34.000Z",
+      "updated_at": "2026-07-29T08:58:15.000Z",
       "resolved_at": null,
       "store_number": "3017",
       "type": "Incident",
@@ -268734,5 +268734,5 @@
     }
   ],
   "count": 11684,
-  "updated": "2026-07-29T08:54:23.357Z"
+  "updated": "2026-07-29T09:24:27.434Z"
 }
