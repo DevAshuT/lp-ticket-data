@@ -244999,11 +244999,11 @@
     {
       "id": 511553,
       "subject": "LP - 1305 Both register  Spot count sync error.",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-07-20T13:46:36.000Z",
-      "updated_at": "2026-07-29T00:15:36.000Z",
+      "updated_at": "2026-07-29T09:03:05.000Z",
       "resolved_at": null,
       "store_number": "1305",
       "type": "Incident",
@@ -268734,5 +268734,5 @@
     }
   ],
   "count": 11684,
-  "updated": "2026-07-29T09:54:55.992Z"
+  "updated": "2026-07-29T10:24:18.163Z"
 }
