@@ -269521,7 +269521,7 @@
       "priority_name": "2-Medium",
       "group_name": "LP Internal Support",
       "created_at": "2026-07-29T16:02:53.000Z",
-      "updated_at": "2026-07-29T22:03:45.000Z",
+      "updated_at": "2026-07-30T04:19:08.000Z",
       "resolved_at": null,
       "store_number": "517",
       "type": "Incident",
@@ -271357,11 +271357,11 @@
     {
       "id": 513129,
       "subject": "LP - 52 Unable to return item from Reg 2",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "Xstore L2 Support",
       "created_at": "2026-07-29T22:41:31.000Z",
-      "updated_at": "2026-07-29T23:51:00.000Z",
+      "updated_at": "2026-07-30T04:22:07.000Z",
       "resolved_at": null,
       "store_number": "52",
       "type": "Incident",
@@ -271609,5 +271609,5 @@
     }
   ],
   "count": 11809,
-  "updated": "2026-07-30T04:54:20.735Z"
+  "updated": "2026-07-30T05:24:26.267Z"
 }
