@@ -271606,8 +271606,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 513148,
+      "subject": "LP - 1 Pinpad offline on register 2",
+      "status_name": "Open",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L2 Support",
+      "created_at": "2026-07-30T08:00:09.000Z",
+      "updated_at": "2026-07-30T08:00:11.000Z",
+      "resolved_at": null,
+      "store_number": "1",
+      "type": "StorePortalTicket",
+      "category": "",
+      "subcategory": "",
+      "agent": "Unassigned",
+      "contact_name": "",
+      "is_open": true,
+      "territory": "1",
+      "region": "2",
+      "district": "6",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 11809,
-  "updated": "2026-07-30T07:54:21.398Z"
+  "count": 11810,
+  "updated": "2026-07-30T08:24:31.691Z"
 }
