@@ -271660,7 +271660,7 @@
       "priority_name": "3-High",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-07-30T08:12:13.000Z",
-      "updated_at": "2026-07-30T08:16:36.000Z",
+      "updated_at": "2026-07-30T10:12:17.000Z",
       "resolved_at": null,
       "store_number": "34",
       "type": "Incident",
@@ -271683,7 +271683,7 @@
       "priority_name": "3-High",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-07-30T08:26:11.000Z",
-      "updated_at": "2026-07-30T08:29:24.000Z",
+      "updated_at": "2026-07-30T10:26:13.000Z",
       "resolved_at": null,
       "store_number": "34",
       "type": "Incident",
@@ -271701,5 +271701,5 @@
     }
   ],
   "count": 11813,
-  "updated": "2026-07-30T10:54:24.927Z"
+  "updated": "2026-07-30T11:24:16.800Z"
 }
