@@ -275570,7 +275570,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-31T16:25:57.000Z",
-      "updated_at": "2026-07-31T17:58:22.000Z",
+      "updated_at": "2026-08-01T11:38:50.000Z",
       "resolved_at": "2026-07-31T16:51:06.000Z",
       "store_number": "557",
       "type": "Incident",
@@ -277103,8 +277103,31 @@
       "overdue": false,
       "l1_response": "Update",
       "source": "Portal"
+    },
+    {
+      "id": 513522,
+      "subject": "LP - 582 H20 test computer will not open any applications",
+      "status_name": "Assigned",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-01T11:53:17.000Z",
+      "updated_at": "2026-08-01T12:02:53.000Z",
+      "resolved_at": null,
+      "store_number": "582",
+      "type": "Incident",
+      "category": "XSTORE",
+      "subcategory": "STORE PORTAL TICKET",
+      "agent": "Rakesh Yadav",
+      "contact_name": "",
+      "is_open": true,
+      "territory": "2",
+      "region": "8",
+      "district": "52",
+      "overdue": false,
+      "l1_response": "Update",
+      "source": "Portal"
     }
   ],
-  "count": 12048,
-  "updated": "2026-08-01T11:54:06.268Z"
+  "count": 12049,
+  "updated": "2026-08-01T12:24:02.508Z"
 }
