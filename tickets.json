@@ -213926,16 +213926,16 @@
     {
       "id": 509550,
       "subject": "LP-0989 - R2 is down on recovery screen",
-      "status_name": "Order",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-07T20:26:43.000Z",
-      "updated_at": "2026-08-03T20:46:45.000Z",
+      "updated_at": "2026-08-04T03:27:06.000Z",
       "resolved_at": null,
       "store_number": "989",
       "type": "Hardware",
       "category": "Register",
-      "subcategory": "CPU",
+      "subcategory": "Ethernet Cable",
       "agent": "Unassigned",
       "contact_name": "",
       "is_open": true,
@@ -248656,11 +248656,11 @@
     {
       "id": 511799,
       "subject": "LP - 884 Register 02 is not powering on",
-      "status_name": "Order",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-21T17:43:21.000Z",
-      "updated_at": "2026-08-03T18:49:23.000Z",
+      "updated_at": "2026-08-04T03:22:27.000Z",
       "resolved_at": null,
       "store_number": "884",
       "type": "Hardware",
@@ -280787,11 +280787,11 @@
     {
       "id": 513761,
       "subject": "LP - 1056 Store bank shows incorrect amount while closing store at Reg 1",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "3-High",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "Xstore L1 Support",
       "created_at": "2026-08-02T23:27:48.000Z",
-      "updated_at": "2026-08-03T23:30:11.000Z",
+      "updated_at": "2026-08-04T03:07:27.000Z",
       "resolved_at": null,
       "store_number": "1056",
       "type": "Incident",
@@ -280947,5 +280947,5 @@
     }
   ],
   "count": 12215,
-  "updated": "2026-08-04T03:54:05.622Z"
+  "updated": "2026-08-04T04:24:12.293Z"
 }
