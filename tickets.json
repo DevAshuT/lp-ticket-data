@@ -273224,7 +273224,7 @@
       "priority_name": "1-Low",
       "group_name": "LP Internal Support",
       "created_at": "2026-07-30T16:56:18.000Z",
-      "updated_at": "2026-07-30T23:43:38.000Z",
+      "updated_at": "2026-08-04T12:25:47.000Z",
       "resolved_at": null,
       "store_number": "726",
       "type": "Network",
@@ -280051,19 +280051,19 @@
     {
       "id": 513722,
       "subject": "LP - 502 R1 xstore startup issue",
-      "status_name": "Waiting for Valdation",
+      "status_name": "Closed",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-02T17:01:36.000Z",
-      "updated_at": "2026-08-03T22:31:09.000Z",
-      "resolved_at": null,
+      "updated_at": "2026-08-04T12:57:24.000Z",
+      "resolved_at": "2026-08-04T12:57:24.000Z",
       "store_number": "502",
       "type": "Hardware",
       "category": "Others",
       "subcategory": "Tripplite Surge Protector (UPS) : NC",
-      "agent": "Unassigned",
+      "agent": "Mrityunjay Singh",
       "contact_name": "",
-      "is_open": true,
+      "is_open": false,
       "territory": "2",
       "region": "8",
       "district": "58",
@@ -280947,5 +280947,5 @@
     }
   ],
   "count": 12215,
-  "updated": "2026-08-04T12:54:20.847Z"
+  "updated": "2026-08-04T13:24:25.564Z"
 }
