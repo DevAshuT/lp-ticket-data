@@ -280718,11 +280718,11 @@
     {
       "id": 513756,
       "subject": "LP - 607 Need to order new receipt printer along with cables for Reg 2",
-      "status_name": "Pending Availability",
+      "status_name": "Open",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-02T22:09:17.000Z",
-      "updated_at": "2026-08-04T22:19:53.000Z",
+      "updated_at": "2026-08-05T13:15:29.000Z",
       "resolved_at": null,
       "store_number": "607",
       "type": "Hardware",
@@ -280947,5 +280947,5 @@
     }
   ],
   "count": 12215,
-  "updated": "2026-08-05T12:54:00.619Z"
+  "updated": "2026-08-05T13:24:08.403Z"
 }
