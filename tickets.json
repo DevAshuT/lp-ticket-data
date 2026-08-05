@@ -280716,29 +280716,6 @@
       "source": "Phone"
     },
     {
-      "id": 513756,
-      "subject": "LP - 607 Need to order new receipt printer along with cables for Reg 2",
-      "status_name": "Open",
-      "priority_name": "2-Medium",
-      "group_name": "Xstore L1 Support",
-      "created_at": "2026-08-02T22:09:17.000Z",
-      "updated_at": "2026-08-05T13:15:29.000Z",
-      "resolved_at": null,
-      "store_number": "607",
-      "type": "Hardware",
-      "category": "Register",
-      "subcategory": "EPSON Receipt Printer : NC",
-      "agent": "Unassigned",
-      "contact_name": "",
-      "is_open": true,
-      "territory": "2",
-      "region": "8",
-      "district": "54",
-      "overdue": false,
-      "l1_response": "Create",
-      "source": "Phone"
-    },
-    {
       "id": 513759,
       "subject": "LP-373 Reg-2 pin pad stuck on welcome",
       "status_name": "Closed",
@@ -280946,6 +280923,6 @@
       "source": "Chat"
     }
   ],
-  "count": 12215,
-  "updated": "2026-08-05T13:24:08.403Z"
+  "count": 12214,
+  "updated": "2026-08-05T13:53:51.408Z"
 }
