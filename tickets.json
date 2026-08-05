@@ -250450,11 +250450,11 @@
     {
       "id": 511925,
       "subject": "LP - 0939 Radio isn't playing music",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-07-22T14:26:58.000Z",
-      "updated_at": "2026-08-05T21:15:28.000Z",
+      "updated_at": "2026-08-05T23:39:07.000Z",
       "resolved_at": null,
       "store_number": "939",
       "type": "Hardware",
@@ -252198,11 +252198,11 @@
     {
       "id": 512029,
       "subject": "LP - 1516 Accublue water test only runs manually",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-22T19:19:51.000Z",
-      "updated_at": "2026-08-05T22:31:29.000Z",
+      "updated_at": "2026-08-05T23:39:15.000Z",
       "resolved_at": null,
       "store_number": "1516",
       "type": "Hardware",
@@ -272438,11 +272438,11 @@
     {
       "id": 513185,
       "subject": "LP - 0774 Reg 2 no usb cable connection pinpad",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-07-30T14:23:31.000Z",
-      "updated_at": "2026-08-05T21:15:28.000Z",
+      "updated_at": "2026-08-05T23:30:13.000Z",
       "resolved_at": null,
       "store_number": "774",
       "type": "Hardware",
@@ -280901,5 +280901,5 @@
     }
   ],
   "count": 12213,
-  "updated": "2026-08-05T23:23:53.646Z"
+  "updated": "2026-08-05T23:53:50.526Z"
 }
