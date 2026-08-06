@@ -223931,11 +223931,11 @@
     {
       "id": 510205,
       "subject": "LP - 725 Close cash drawer error on Reg1",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-11T14:59:09.000Z",
-      "updated_at": "2026-08-05T22:43:56.000Z",
+      "updated_at": "2026-08-06T01:00:15.000Z",
       "resolved_at": null,
       "store_number": "725",
       "type": "Hardware",
@@ -260869,11 +260869,11 @@
     {
       "id": 512616,
       "subject": "LP-552 Reg-2 scanner is not working",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-26T20:02:02.000Z",
-      "updated_at": "2026-08-05T22:15:27.000Z",
+      "updated_at": "2026-08-06T00:50:42.000Z",
       "resolved_at": null,
       "store_number": "552",
       "type": "Hardware",
@@ -280097,11 +280097,11 @@
     {
       "id": 513728,
       "subject": "LP-1067  Accublue machine is stuck on wavelink spin touch and not able to do anything",
-      "status_name": "Open",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-02T17:39:09.000Z",
-      "updated_at": "2026-08-06T00:00:19.000Z",
+      "updated_at": "2026-08-06T00:55:01.000Z",
       "resolved_at": null,
       "store_number": "1067",
       "type": "Hardware",
@@ -280833,11 +280833,11 @@
     {
       "id": 513767,
       "subject": "LP - 795 Spot Count Not submitting",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-03T01:12:46.000Z",
-      "updated_at": "2026-08-05T23:15:28.000Z",
+      "updated_at": "2026-08-06T01:01:06.000Z",
       "resolved_at": null,
       "store_number": "795",
       "type": "Procedural",
@@ -280901,5 +280901,5 @@
     }
   ],
   "count": 12213,
-  "updated": "2026-08-06T00:53:49.245Z"
+  "updated": "2026-08-06T01:23:50.959Z"
 }
