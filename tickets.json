@@ -264871,19 +264871,19 @@
     {
       "id": 512867,
       "subject": "LP - 547 Printer will not power on",
-      "status_name": "Pending Availability",
+      "status_name": "Closed",
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-28T16:12:17.000Z",
-      "updated_at": "2026-08-06T13:15:43.000Z",
-      "resolved_at": null,
+      "updated_at": "2026-08-06T13:26:10.000Z",
+      "resolved_at": "2026-08-06T13:26:09.000Z",
       "store_number": "547",
       "type": "Hardware",
       "category": "Others",
       "subcategory": "LEXMARK MS431 : NC",
       "agent": "Monica Rivas",
       "contact_name": "",
-      "is_open": true,
+      "is_open": false,
       "territory": "2",
       "region": "8",
       "district": "58",
@@ -280901,5 +280901,5 @@
     }
   ],
   "count": 12213,
-  "updated": "2026-08-06T13:23:47.379Z"
+  "updated": "2026-08-06T13:53:53.072Z"
 }
