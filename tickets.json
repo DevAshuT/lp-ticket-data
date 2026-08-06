@@ -264875,13 +264875,13 @@
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-28T16:12:17.000Z",
-      "updated_at": "2026-08-05T23:15:30.000Z",
+      "updated_at": "2026-08-06T13:15:43.000Z",
       "resolved_at": null,
       "store_number": "547",
       "type": "Hardware",
       "category": "Others",
       "subcategory": "LEXMARK MS431 : NC",
-      "agent": "Unassigned",
+      "agent": "Monica Rivas",
       "contact_name": "",
       "is_open": true,
       "territory": "2",
@@ -280901,5 +280901,5 @@
     }
   ],
   "count": 12213,
-  "updated": "2026-08-06T12:53:54.792Z"
+  "updated": "2026-08-06T13:23:47.379Z"
 }
