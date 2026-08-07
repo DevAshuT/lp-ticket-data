@@ -275612,11 +275612,11 @@
     {
       "id": 513415,
       "subject": "LP - 304 Both pin pads issue",
-      "status_name": "Order",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-31T16:46:03.000Z",
-      "updated_at": "2026-08-06T22:22:31.000Z",
+      "updated_at": "2026-08-07T03:26:04.000Z",
       "resolved_at": null,
       "store_number": "304",
       "type": "Hardware",
@@ -278464,11 +278464,11 @@
     {
       "id": 513591,
       "subject": "LP - 834 Accublue not running tests saying the lid is open",
-      "status_name": "Order",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-01T16:23:21.000Z",
-      "updated_at": "2026-08-06T21:42:55.000Z",
+      "updated_at": "2026-08-07T03:23:11.000Z",
       "resolved_at": null,
       "store_number": "834",
       "type": "Hardware",
@@ -280097,11 +280097,11 @@
     {
       "id": 513728,
       "subject": "LP-1067  Accublue machine is stuck on wavelink spin touch and not able to do anything",
-      "status_name": "Order",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-02T17:39:09.000Z",
-      "updated_at": "2026-08-06T22:45:21.000Z",
+      "updated_at": "2026-08-07T03:19:54.000Z",
       "resolved_at": null,
       "store_number": "1067",
       "type": "Hardware",
@@ -283155,5 +283155,5 @@
     }
   ],
   "count": 12311,
-  "updated": "2026-08-07T03:23:49.348Z"
+  "updated": "2026-08-07T03:53:50.593Z"
 }
