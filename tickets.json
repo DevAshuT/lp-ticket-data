@@ -280833,11 +280833,11 @@
     {
       "id": 513767,
       "subject": "LP - 795 Spot Count Not submitting",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-03T01:12:46.000Z",
-      "updated_at": "2026-08-07T01:15:27.000Z",
+      "updated_at": "2026-08-07T02:11:46.000Z",
       "resolved_at": null,
       "store_number": "795",
       "type": "Procedural",
@@ -282811,11 +282811,11 @@
     {
       "id": 514424,
       "subject": "LP - 348 - ​Accublue lid open error",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-06T20:39:12.000Z",
-      "updated_at": "2026-08-07T01:15:28.000Z",
+      "updated_at": "2026-08-07T02:05:02.000Z",
       "resolved_at": null,
       "store_number": "348",
       "type": "Hardware",
@@ -282857,11 +282857,11 @@
     {
       "id": 514427,
       "subject": "LP - 566 - Phone not working",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-06T20:51:34.000Z",
-      "updated_at": "2026-08-07T01:15:28.000Z",
+      "updated_at": "2026-08-07T02:08:29.000Z",
       "resolved_at": null,
       "store_number": "566",
       "type": "Hardware",
@@ -283087,11 +283087,11 @@
     {
       "id": 514449,
       "subject": "LP - 648 - Unable to order uniform on reg02",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-06T23:02:43.000Z",
-      "updated_at": "2026-08-07T00:08:42.000Z",
+      "updated_at": "2026-08-07T02:10:39.000Z",
       "resolved_at": null,
       "store_number": "648",
       "type": "Incident",
@@ -283155,5 +283155,5 @@
     }
   ],
   "count": 12311,
-  "updated": "2026-08-07T01:53:53.637Z"
+  "updated": "2026-08-07T02:23:54.621Z"
 }
