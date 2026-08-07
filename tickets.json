@@ -281044,7 +281044,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-03T19:54:08.000Z",
-      "updated_at": "2026-08-07T00:47:12.000Z",
+      "updated_at": "2026-08-07T01:21:06.000Z",
       "resolved_at": null,
       "store_number": "586",
       "type": "Incident",
@@ -282309,7 +282309,7 @@
       "priority_name": "2-Medium",
       "group_name": "LP Internal Support",
       "created_at": "2026-08-06T17:09:16.000Z",
-      "updated_at": "2026-08-06T21:48:28.000Z",
+      "updated_at": "2026-08-07T01:25:22.000Z",
       "resolved_at": null,
       "store_number": "572",
       "type": "Incident",
@@ -283155,5 +283155,5 @@
     }
   ],
   "count": 12311,
-  "updated": "2026-08-07T01:23:52.798Z"
+  "updated": "2026-08-07T01:53:53.637Z"
 }
