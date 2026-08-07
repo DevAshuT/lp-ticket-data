@@ -259351,11 +259351,11 @@
     {
       "id": 512517,
       "subject": "LP - 586 accublue not connecting",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-07-25T21:29:49.000Z",
-      "updated_at": "2026-08-07T01:15:27.000Z",
+      "updated_at": "2026-08-07T02:53:27.000Z",
       "resolved_at": null,
       "store_number": "586",
       "type": "Hardware",
@@ -281707,11 +281707,11 @@
     {
       "id": 514236,
       "subject": "LP - 631 Unable to submit spot count.",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-05T18:48:20.000Z",
-      "updated_at": "2026-08-07T01:15:28.000Z",
+      "updated_at": "2026-08-07T02:55:24.000Z",
       "resolved_at": null,
       "store_number": "631",
       "type": "Incident",
@@ -282558,11 +282558,11 @@
     {
       "id": 514410,
       "subject": "LP - 950 AccuBlue – Inconsistent Calcium Hardness Readings",
-      "status_name": "Order",
+      "status_name": "Pending",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-06T19:07:47.000Z",
-      "updated_at": "2026-08-06T21:46:21.000Z",
+      "updated_at": "2026-08-07T03:15:43.000Z",
       "resolved_at": null,
       "store_number": "950",
       "type": "Hardware",
@@ -283155,5 +283155,5 @@
     }
   ],
   "count": 12311,
-  "updated": "2026-08-07T02:53:53.676Z"
+  "updated": "2026-08-07T03:23:49.348Z"
 }
