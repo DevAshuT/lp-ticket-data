@@ -284720,17 +284720,17 @@
     {
       "id": 514587,
       "subject": "LP - 52 Reg1 is not powering on",
-      "status_name": "Open",
+      "status_name": "Assigned",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-07T18:31:57.000Z",
-      "updated_at": "2026-08-07T22:53:32.000Z",
+      "updated_at": "2026-08-08T00:57:27.000Z",
       "resolved_at": null,
       "store_number": "52",
       "type": "Hardware",
       "category": "Register",
       "subcategory": "CPU",
-      "agent": "Unassigned",
+      "agent": "Raj Mishra",
       "contact_name": "",
       "is_open": true,
       "territory": "1",
@@ -285414,7 +285414,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-07T23:10:37.000Z",
-      "updated_at": "2026-08-08T00:17:39.000Z",
+      "updated_at": "2026-08-08T00:52:21.000Z",
       "resolved_at": "2026-08-07T23:19:21.000Z",
       "store_number": "750",
       "type": "Incident",
@@ -285455,5 +285455,5 @@
     }
   ],
   "count": 12411,
-  "updated": "2026-08-08T00:53:57.401Z"
+  "updated": "2026-08-08T01:23:45.584Z"
 }
