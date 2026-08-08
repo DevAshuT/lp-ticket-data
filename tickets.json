@@ -281132,11 +281132,11 @@
     {
       "id": 513895,
       "subject": "LP-783 Reg01 USB ports issue",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-03T21:19:39.000Z",
-      "updated_at": "2026-08-08T00:15:38.000Z",
+      "updated_at": "2026-08-08T00:39:07.000Z",
       "resolved_at": null,
       "store_number": "783",
       "type": "Hardware",
@@ -284218,7 +284218,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-07T16:19:19.000Z",
-      "updated_at": "2026-08-08T00:15:40.000Z",
+      "updated_at": "2026-08-08T00:19:40.000Z",
       "resolved_at": null,
       "store_number": "721",
       "type": "Incident",
@@ -285226,11 +285226,11 @@
     {
       "id": 514638,
       "subject": "LP - 648 broken ipad screen",
-      "status_name": "Open",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-07T21:50:59.000Z",
-      "updated_at": "2026-08-07T22:47:24.000Z",
+      "updated_at": "2026-08-08T00:36:22.000Z",
       "resolved_at": null,
       "store_number": "648",
       "type": "Hardware",
@@ -285414,7 +285414,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-07T23:10:37.000Z",
-      "updated_at": "2026-08-07T23:19:31.000Z",
+      "updated_at": "2026-08-08T00:17:39.000Z",
       "resolved_at": "2026-08-07T23:19:21.000Z",
       "store_number": "750",
       "type": "Incident",
@@ -285455,5 +285455,5 @@
     }
   ],
   "count": 12411,
-  "updated": "2026-08-08T00:24:08.396Z"
+  "updated": "2026-08-08T00:53:57.401Z"
 }
