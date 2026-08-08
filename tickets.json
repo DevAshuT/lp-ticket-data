@@ -285452,8 +285452,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 514673,
+      "subject": "LP - 304 not allowing me to punch in",
+      "status_name": "Assigned",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-08T12:38:21.000Z",
+      "updated_at": "2026-08-08T12:44:59.000Z",
+      "resolved_at": null,
+      "store_number": "304",
+      "type": "Incident",
+      "category": "XSTORE",
+      "subcategory": "STORE PORTAL TICKET",
+      "agent": "Rakesh Yadav",
+      "contact_name": "",
+      "is_open": true,
+      "territory": "3",
+      "region": "7",
+      "district": "43",
+      "overdue": false,
+      "l1_response": "Update",
+      "source": "Portal"
     }
   ],
-  "count": 12411,
-  "updated": "2026-08-08T12:23:55.812Z"
+  "count": 12412,
+  "updated": "2026-08-08T12:53:49.629Z"
 }
