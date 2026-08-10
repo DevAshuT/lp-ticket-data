@@ -288698,17 +288698,17 @@
     },
     {
       "id": 514958,
-      "subject": "LP - 1026 reg 2 declared amount doubled",
-      "status_name": "Open",
+      "subject": "LP - 1026 Reg 2 declared amount doubled",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-09T23:29:34.000Z",
-      "updated_at": "2026-08-09T23:44:35.000Z",
+      "updated_at": "2026-08-10T00:01:15.000Z",
       "resolved_at": null,
       "store_number": "1026",
       "type": "Incident",
-      "category": "XSTORE",
-      "subcategory": "STORE PORTAL TICKET",
+      "category": "Store Open / Close",
+      "subcategory": "STORE BANK DESCREPENCY",
       "agent": "Unassigned",
       "contact_name": "",
       "is_open": true,
@@ -288716,10 +288716,10 @@
       "region": "4",
       "district": "21",
       "overdue": false,
-      "l1_response": "",
+      "l1_response": "Update",
       "source": "Portal"
     }
   ],
   "count": 12553,
-  "updated": "2026-08-09T23:53:49.926Z"
+  "updated": "2026-08-10T00:23:51.566Z"
 }
