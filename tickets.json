@@ -288833,8 +288833,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 514966,
+      "subject": "LP - 638 Printer IP address reset, not connecting",
+      "status_name": "Assigned",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-10T12:42:38.000Z",
+      "updated_at": "2026-08-10T12:43:54.000Z",
+      "resolved_at": null,
+      "store_number": "638",
+      "type": "Hardware",
+      "category": "Others",
+      "subcategory": "LEXMARK MS431 : NC",
+      "agent": "Anuj Sharma",
+      "contact_name": "",
+      "is_open": true,
+      "territory": "2",
+      "region": "8",
+      "district": "54",
+      "overdue": false,
+      "l1_response": "Update",
+      "source": "Portal"
     }
   ],
-  "count": 12558,
-  "updated": "2026-08-10T12:24:00.617Z"
+  "count": 12559,
+  "updated": "2026-08-10T12:53:50.406Z"
 }
