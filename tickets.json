@@ -289159,11 +289159,11 @@
     {
       "id": 514985,
       "subject": "LP - 674 Unable to access OMNI and other applications with new password",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "1-Low",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-10T13:48:30.000Z",
-      "updated_at": "2026-08-11T00:15:33.000Z",
+      "updated_at": "2026-08-11T03:35:55.000Z",
       "resolved_at": null,
       "store_number": "674",
       "type": "Incident",
@@ -290355,11 +290355,11 @@
     {
       "id": 515123,
       "subject": "LP - 468 unable to return item from either register",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "Xstore L1 Support",
       "created_at": "2026-08-10T22:18:05.000Z",
-      "updated_at": "2026-08-10T23:27:43.000Z",
+      "updated_at": "2026-08-11T03:30:23.000Z",
       "resolved_at": null,
       "store_number": "468",
       "type": "Incident",
@@ -290538,5 +290538,5 @@
     }
   ],
   "count": 12632,
-  "updated": "2026-08-11T03:24:00.623Z"
+  "updated": "2026-08-11T03:53:47.204Z"
 }
