@@ -288220,7 +288220,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-09T18:52:07.000Z",
-      "updated_at": "2026-08-13T01:46:50.000Z",
+      "updated_at": "2026-08-13T02:11:39.000Z",
       "resolved_at": "2026-08-13T01:13:57.000Z",
       "store_number": "302",
       "type": "Hardware",
@@ -293230,17 +293230,17 @@
     {
       "id": 515468,
       "subject": "LP - 0088 WTPC will not print",
-      "status_name": "Assigned",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-12T16:01:48.000Z",
-      "updated_at": "2026-08-13T01:32:14.000Z",
+      "updated_at": "2026-08-13T01:53:26.000Z",
       "resolved_at": null,
       "store_number": "88",
       "type": "Incident",
       "category": "Lexmark Printer MX431/MX331/MS431/MS331",
       "subcategory": "UNABLE TO PRINT I-9",
-      "agent": "Rituraj .",
+      "agent": "Unassigned",
       "contact_name": "0088 - LP - San Jose, CA #88",
       "is_open": true,
       "territory": "1",
@@ -294632,5 +294632,5 @@
     }
   ],
   "count": 12810,
-  "updated": "2026-08-13T02:24:14.435Z"
+  "updated": "2026-08-13T03:00:08.061Z"
 }
