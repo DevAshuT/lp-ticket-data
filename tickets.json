@@ -295488,12 +295488,12 @@
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-13T16:47:05.000Z",
-      "updated_at": "2026-08-13T19:10:39.000Z",
+      "updated_at": "2026-08-14T03:40:59.000Z",
       "resolved_at": "2026-08-13T19:10:37.000Z",
       "store_number": "826",
       "type": "Incident",
-      "category": "XSTORE",
-      "subcategory": "STORE PORTAL TICKET",
+      "category": "Wavelink",
+      "subcategory": "LP Wavelink Links",
       "agent": "Ankit Vaishle",
       "contact_name": "0826 - LP - Oklahoma City, OK #826",
       "is_open": false,
@@ -296519,11 +296519,11 @@
     {
       "id": 515776,
       "subject": "LP - 554 POS Inventory resync issue",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-13T23:39:31.000Z",
-      "updated_at": "2026-08-14T02:20:54.000Z",
+      "updated_at": "2026-08-14T03:28:48.000Z",
       "resolved_at": null,
       "store_number": "554",
       "type": "Procedural",
@@ -296656,5 +296656,5 @@
     }
   ],
   "count": 12898,
-  "updated": "2026-08-14T03:24:17.941Z"
+  "updated": "2026-08-14T04:24:05.373Z"
 }
