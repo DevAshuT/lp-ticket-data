@@ -289692,7 +289692,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-10T18:29:40.000Z",
-      "updated_at": "2026-08-15T00:33:20.000Z",
+      "updated_at": "2026-08-15T01:36:52.000Z",
       "resolved_at": "2026-08-15T00:33:18.000Z",
       "store_number": "128",
       "type": "Hardware",
@@ -297903,7 +297903,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-14T18:18:23.000Z",
-      "updated_at": "2026-08-14T22:59:14.000Z",
+      "updated_at": "2026-08-15T02:18:34.000Z",
       "resolved_at": null,
       "store_number": "435",
       "type": "Incident",
@@ -298796,11 +298796,11 @@
     {
       "id": 515967,
       "subject": "LP - 362 Lexmark printer is not printing properly",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-15T00:27:53.000Z",
-      "updated_at": "2026-08-15T00:57:05.000Z",
+      "updated_at": "2026-08-15T02:02:01.000Z",
       "resolved_at": null,
       "store_number": "362",
       "type": "Incident",
@@ -298818,5 +298818,5 @@
     }
   ],
   "count": 12992,
-  "updated": "2026-08-15T02:24:29.241Z"
+  "updated": "2026-08-15T02:54:01.369Z"
 }
