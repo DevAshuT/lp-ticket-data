@@ -298815,8 +298815,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 515976,
+      "subject": "LP - 918 AS400 and V23 system are different with on hands.",
+      "status_name": "Pending Availability",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-15T11:24:14.000Z",
+      "updated_at": "2026-08-15T11:31:15.000Z",
+      "resolved_at": null,
+      "store_number": "918",
+      "type": "Incident",
+      "category": "Wavelink",
+      "subcategory": "AS400 ISSUE",
+      "agent": "Unassigned",
+      "contact_name": "0918 - LP - Weatherford, TX #918",
+      "is_open": true,
+      "territory": "2",
+      "region": "5",
+      "district": "32",
+      "overdue": false,
+      "l1_response": "Update",
+      "source": "Portal"
     }
   ],
-  "count": 12992,
-  "updated": "2026-08-15T11:24:17.584Z"
+  "count": 12993,
+  "updated": "2026-08-15T11:54:10.324Z"
 }
