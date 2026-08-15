@@ -298662,7 +298662,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-14T21:46:02.000Z",
-      "updated_at": "2026-08-15T03:40:17.000Z",
+      "updated_at": "2026-08-15T05:46:23.000Z",
       "resolved_at": null,
       "store_number": "518",
       "type": "Incident",
@@ -298818,5 +298818,5 @@
     }
   ],
   "count": 12992,
-  "updated": "2026-08-15T06:24:05.828Z"
+  "updated": "2026-08-15T06:54:20.662Z"
 }
