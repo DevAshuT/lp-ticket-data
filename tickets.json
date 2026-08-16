@@ -300571,7 +300571,7 @@
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-15T22:22:55.000Z",
-      "updated_at": "2026-08-15T22:26:55.000Z",
+      "updated_at": "2026-08-16T12:47:48.000Z",
       "resolved_at": "2026-08-15T22:26:53.000Z",
       "store_number": "529",
       "type": "Incident",
@@ -300659,11 +300659,11 @@
     {
       "id": 516093,
       "subject": "LP - 111 Cash drawer is not opening and register making beep sound at Reg 1",
-      "status_name": "Pending Availability",
+      "status_name": "Open",
       "priority_name": "3-High",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-15T21:57:30.000Z",
-      "updated_at": "2026-08-15T23:35:00.000Z",
+      "updated_at": "2026-08-16T13:28:20.000Z",
       "resolved_at": null,
       "store_number": "111",
       "type": "Hardware",
@@ -300934,5 +300934,5 @@
     }
   ],
   "count": 13084,
-  "updated": "2026-08-16T13:24:06.118Z"
+  "updated": "2026-08-16T13:53:53.204Z"
 }
