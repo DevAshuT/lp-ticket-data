@@ -302549,7 +302549,7 @@
       "priority_name": "2-Medium",
       "group_name": "LP Internal Support",
       "created_at": "2026-08-17T15:03:20.000Z",
-      "updated_at": "2026-08-17T16:19:20.000Z",
+      "updated_at": "2026-08-17T23:15:37.000Z",
       "resolved_at": null,
       "store_number": "88",
       "type": "Incident",
@@ -303281,11 +303281,11 @@
     {
       "id": 516280,
       "subject": "LP - 341 - Unable to login OMNI",
-      "status_name": "Escalated",
+      "status_name": "Assigned",
       "priority_name": "1-Low",
       "group_name": "LP Internal Support",
       "created_at": "2026-08-17T18:32:26.000Z",
-      "updated_at": "2026-08-17T20:54:57.000Z",
+      "updated_at": "2026-08-17T23:27:33.000Z",
       "resolved_at": null,
       "store_number": "341",
       "type": "Incident",
@@ -304039,5 +304039,5 @@
     }
   ],
   "count": 13219,
-  "updated": "2026-08-17T23:24:07.210Z"
+  "updated": "2026-08-17T23:54:01.825Z"
 }
