@@ -304082,8 +304082,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 516357,
+      "subject": "LP - 3021 Unable to login in UKG",
+      "status_name": "Open",
+      "priority_name": "1-Low",
+      "group_name": "Xstore L2 Support",
+      "created_at": "2026-08-18T11:15:33.000Z",
+      "updated_at": "2026-08-18T11:24:29.000Z",
+      "resolved_at": null,
+      "store_number": "3021",
+      "type": "Incident",
+      "category": "Wavelink",
+      "subcategory": "LP Wavelink Links",
+      "agent": "Unassigned",
+      "contact_name": "3021 - LP - TAMPA, FL #3021",
+      "is_open": true,
+      "territory": "2",
+      "region": "8",
+      "district": "54",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 13221,
-  "updated": "2026-08-18T11:25:49.645Z"
+  "count": 13222,
+  "updated": "2026-08-18T11:54:08.525Z"
 }
