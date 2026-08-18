@@ -304044,7 +304044,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-18T01:13:43.000Z",
-      "updated_at": "2026-08-18T01:19:57.000Z",
+      "updated_at": "2026-08-18T02:13:48.000Z",
       "resolved_at": "2026-08-18T01:19:55.000Z",
       "store_number": "15",
       "type": "Incident",
@@ -304063,17 +304063,17 @@
     {
       "id": 516356,
       "subject": "LP - 0973 Unable to submit spot count in wavelink on all computers",
-      "status_name": "Assigned",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-18T01:21:27.000Z",
-      "updated_at": "2026-08-18T01:47:56.000Z",
+      "updated_at": "2026-08-18T02:40:37.000Z",
       "resolved_at": null,
       "store_number": "973",
       "type": "Procedural",
       "category": "Procedural",
       "subcategory": "UNABLE TO SUBMIT SPOT COUNT",
-      "agent": "Santosh Thakur",
+      "agent": "Unassigned",
       "contact_name": "0973 - LP - Montebello, CA #973",
       "is_open": true,
       "territory": "1",
@@ -304085,5 +304085,5 @@
     }
   ],
   "count": 13221,
-  "updated": "2026-08-18T02:24:01.535Z"
+  "updated": "2026-08-18T02:54:02.121Z"
 }
