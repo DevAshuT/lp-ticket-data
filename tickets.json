@@ -304021,7 +304021,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-17T22:46:47.000Z",
-      "updated_at": "2026-08-17T22:51:35.000Z",
+      "updated_at": "2026-08-17T23:50:27.000Z",
       "resolved_at": null,
       "store_number": "890",
       "type": "Network",
@@ -304039,5 +304039,5 @@
     }
   ],
   "count": 13219,
-  "updated": "2026-08-17T23:54:01.825Z"
+  "updated": "2026-08-18T00:24:14.829Z"
 }
