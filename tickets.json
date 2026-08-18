@@ -296979,17 +296979,17 @@
     {
       "id": 515819,
       "subject": "LP-357 Reg-2 pin pad is showing no USB connection",
-      "status_name": "Pending Availability",
+      "status_name": "Assigned",
       "priority_name": "2-Medium",
-      "group_name": "Xstore L1 Support",
+      "group_name": "Xstore L2 Support",
       "created_at": "2026-08-14T14:04:01.000Z",
-      "updated_at": "2026-08-17T20:45:31.000Z",
+      "updated_at": "2026-08-18T12:31:43.000Z",
       "resolved_at": null,
       "store_number": "357",
       "type": "Hardware",
       "category": "Register",
       "subcategory": "VERIFONE Pin pad",
-      "agent": "Unassigned",
+      "agent": "Mrityunjay Singh",
       "contact_name": "0357 - LP - Eatontown, NJ #357",
       "is_open": true,
       "territory": "3",
@@ -304085,12 +304085,12 @@
     },
     {
       "id": 516357,
-      "subject": "LP - 3021 Unable to login in UKG",
+      "subject": "LP - 3021 Unable to punch in UKG",
       "status_name": "Open",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-18T11:15:33.000Z",
-      "updated_at": "2026-08-18T11:24:29.000Z",
+      "updated_at": "2026-08-18T12:32:52.000Z",
       "resolved_at": null,
       "store_number": "3021",
       "type": "Incident",
@@ -304108,5 +304108,5 @@
     }
   ],
   "count": 13222,
-  "updated": "2026-08-18T12:25:19.600Z"
+  "updated": "2026-08-18T12:54:02.513Z"
 }
