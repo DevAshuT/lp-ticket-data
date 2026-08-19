@@ -306390,7 +306390,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-18T23:58:30.000Z",
-      "updated_at": "2026-08-19T01:04:33.000Z",
+      "updated_at": "2026-08-19T04:06:41.000Z",
       "resolved_at": null,
       "store_number": "564",
       "type": "Hardware",
@@ -306431,5 +306431,5 @@
     }
   ],
   "count": 13323,
-  "updated": "2026-08-19T03:53:53.533Z"
+  "updated": "2026-08-19T04:23:52.361Z"
 }
