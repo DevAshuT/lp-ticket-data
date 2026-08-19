@@ -305282,11 +305282,11 @@
     {
       "id": 516443,
       "subject": "LP - 260 Both registers Commercial Account Charge Status Mismatch",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-18T17:47:17.000Z",
-      "updated_at": "2026-08-19T01:47:28.000Z",
+      "updated_at": "2026-08-19T08:06:29.000Z",
       "resolved_at": null,
       "store_number": "260",
       "type": "Procedural",
@@ -305397,11 +305397,11 @@
     {
       "id": 516447,
       "subject": "LP - 410 AS400/JDA needs to be synched with POS for the following skus",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-18T17:56:34.000Z",
-      "updated_at": "2026-08-19T01:56:45.000Z",
+      "updated_at": "2026-08-19T07:59:57.000Z",
       "resolved_at": null,
       "store_number": "410",
       "type": "Incident",
@@ -306041,11 +306041,11 @@
     {
       "id": 516509,
       "subject": "LP - 476 AS400 and POS Inventory Out of Sync – SKU 12419",
-      "status_name": "Open",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-18T21:57:33.000Z",
-      "updated_at": "2026-08-19T05:57:42.000Z",
+      "updated_at": "2026-08-19T07:58:34.000Z",
       "resolved_at": null,
       "store_number": "476",
       "type": "Incident",
@@ -306110,11 +306110,11 @@
     {
       "id": 516510,
       "subject": "LP - 0117 Unable to receive",
-      "status_name": "Open",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-18T22:04:49.000Z",
-      "updated_at": "2026-08-19T06:04:56.000Z",
+      "updated_at": "2026-08-19T07:56:55.000Z",
       "resolved_at": null,
       "store_number": "117",
       "type": "Procedural",
@@ -306431,5 +306431,5 @@
     }
   ],
   "count": 13323,
-  "updated": "2026-08-19T07:53:58.178Z"
+  "updated": "2026-08-19T08:24:07.272Z"
 }
