@@ -301211,11 +301211,11 @@
     {
       "id": 516136,
       "subject": "LP - 576 Reg 1 offline",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-16T15:49:14.000Z",
-      "updated_at": "2026-08-19T00:15:29.000Z",
+      "updated_at": "2026-08-19T09:14:49.000Z",
       "resolved_at": null,
       "store_number": "576",
       "type": "Hardware",
@@ -301579,11 +301579,11 @@
     {
       "id": 516155,
       "subject": "LP - 1004 Reg1 offline",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-16T17:52:08.000Z",
-      "updated_at": "2026-08-19T02:08:27.000Z",
+      "updated_at": "2026-08-19T09:13:30.000Z",
       "resolved_at": null,
       "store_number": "1004",
       "type": "Hardware",
@@ -306431,5 +306431,5 @@
     }
   ],
   "count": 13323,
-  "updated": "2026-08-19T09:24:49.695Z"
+  "updated": "2026-08-19T09:53:58.489Z"
 }
