@@ -306390,7 +306390,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-18T23:58:30.000Z",
-      "updated_at": "2026-08-19T00:15:32.000Z",
+      "updated_at": "2026-08-19T01:04:33.000Z",
       "resolved_at": null,
       "store_number": "564",
       "type": "Hardware",
@@ -306405,8 +306405,31 @@
       "overdue": false,
       "l1_response": "Update",
       "source": "Portal"
+    },
+    {
+      "id": 516536,
+      "subject": "LP - 0267 Unable to submit spot count in wavelink on all computers",
+      "status_name": "Open",
+      "priority_name": "1-Low",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-19T01:11:30.000Z",
+      "updated_at": "2026-08-19T01:11:58.000Z",
+      "resolved_at": null,
+      "store_number": "267",
+      "type": "Procedural",
+      "category": "Procedural",
+      "subcategory": "UNABLE TO SUBMIT SPOT COUNT",
+      "agent": "Shubham Jaiswal",
+      "contact_name": "0267 - LP - La Verne, CA #267",
+      "is_open": true,
+      "territory": "1",
+      "region": "2",
+      "district": "8",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 13322,
-  "updated": "2026-08-19T00:53:51.419Z"
+  "count": 13323,
+  "updated": "2026-08-19T01:23:52.662Z"
 }
