@@ -303925,11 +303925,11 @@
     {
       "id": 516324,
       "subject": "LP - 456 AS400 issue on both register 1 and 2",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-17T21:26:08.000Z",
-      "updated_at": "2026-08-19T00:15:31.000Z",
+      "updated_at": "2026-08-19T08:39:32.000Z",
       "resolved_at": null,
       "store_number": "456",
       "type": "Incident",
@@ -304224,11 +304224,11 @@
     {
       "id": 516365,
       "subject": "LP - 877 Can't accept truck again",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-18T13:37:15.000Z",
-      "updated_at": "2026-08-19T00:15:31.000Z",
+      "updated_at": "2026-08-19T08:37:38.000Z",
       "resolved_at": null,
       "store_number": "877",
       "type": "Procedural",
@@ -304707,11 +304707,11 @@
     {
       "id": 516395,
       "subject": "LP - 274 Computer not synced",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-18T15:21:44.000Z",
-      "updated_at": "2026-08-19T00:15:31.000Z",
+      "updated_at": "2026-08-19T08:34:56.000Z",
       "resolved_at": null,
       "store_number": "274",
       "type": "Incident",
@@ -306431,5 +306431,5 @@
     }
   ],
   "count": 13323,
-  "updated": "2026-08-19T08:24:07.272Z"
+  "updated": "2026-08-19T08:54:07.156Z"
 }
