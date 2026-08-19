@@ -301583,7 +301583,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-16T17:52:08.000Z",
-      "updated_at": "2026-08-19T00:15:30.000Z",
+      "updated_at": "2026-08-19T02:08:27.000Z",
       "resolved_at": null,
       "store_number": "1004",
       "type": "Hardware",
@@ -305286,7 +305286,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-18T17:47:17.000Z",
-      "updated_at": "2026-08-19T00:15:31.000Z",
+      "updated_at": "2026-08-19T01:47:28.000Z",
       "resolved_at": null,
       "store_number": "260",
       "type": "Procedural",
@@ -305401,7 +305401,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-18T17:56:34.000Z",
-      "updated_at": "2026-08-19T00:15:31.000Z",
+      "updated_at": "2026-08-19T01:56:45.000Z",
       "resolved_at": null,
       "store_number": "410",
       "type": "Incident",
@@ -306431,5 +306431,5 @@
     }
   ],
   "count": 13323,
-  "updated": "2026-08-19T01:53:50.472Z"
+  "updated": "2026-08-19T02:23:55.905Z"
 }
