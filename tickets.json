@@ -1958,11 +1958,11 @@
     {
       "id": 491881,
       "subject": "LP - 0603 Order New Register 2 for V23",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "LP Internal Support",
       "created_at": "2026-04-10T17:32:48.000Z",
-      "updated_at": "2026-08-18T21:15:31.000Z",
+      "updated_at": "2026-08-20T07:15:23.000Z",
       "resolved_at": null,
       "store_number": "603",
       "type": "Hardware",
@@ -181657,11 +181657,11 @@
     {
       "id": 507493,
       "subject": "LP - 1103 - Employee unable to borrow in",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "LP Internal Support",
       "created_at": "2026-06-26T15:45:09.000Z",
-      "updated_at": "2026-08-18T21:15:31.000Z",
+      "updated_at": "2026-08-20T07:15:23.000Z",
       "resolved_at": null,
       "store_number": "1103",
       "type": "Incident",
@@ -239755,11 +239755,11 @@
     {
       "id": 511214,
       "subject": "LP - 59 - Unable to receive DC Truck",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "LP Internal Support",
       "created_at": "2026-07-17T16:55:57.000Z",
-      "updated_at": "2026-08-18T21:15:32.000Z",
+      "updated_at": "2026-08-20T07:15:23.000Z",
       "resolved_at": null,
       "store_number": "59",
       "type": "Procedural",
@@ -262755,11 +262755,11 @@
     {
       "id": 512724,
       "subject": "LP - 517 - Reg01 unable to start",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "3-High",
       "group_name": "LP Internal Support",
       "created_at": "2026-07-27T16:26:40.000Z",
-      "updated_at": "2026-08-18T21:15:32.000Z",
+      "updated_at": "2026-08-20T07:15:23.000Z",
       "resolved_at": null,
       "store_number": "517",
       "type": "Hardware",
@@ -308639,5 +308639,5 @@
     }
   ],
   "count": 13419,
-  "updated": "2026-08-20T07:23:56.704Z"
+  "updated": "2026-08-20T07:54:15.903Z"
 }
