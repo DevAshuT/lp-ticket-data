@@ -301376,7 +301376,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore Support Supervisors",
       "created_at": "2026-08-16T16:33:17.000Z",
-      "updated_at": "2026-08-19T22:43:38.000Z",
+      "updated_at": "2026-08-20T00:43:47.000Z",
       "resolved_at": null,
       "store_number": "368",
       "type": "Hardware",
@@ -308134,19 +308134,19 @@
     {
       "id": 516657,
       "subject": "LP-402 part finder is not working",
-      "status_name": "Assigned",
+      "status_name": "Closed",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-19T20:30:31.000Z",
-      "updated_at": "2026-08-19T22:05:44.000Z",
-      "resolved_at": null,
+      "updated_at": "2026-08-20T01:01:35.000Z",
+      "resolved_at": "2026-08-20T01:01:33.000Z",
       "store_number": "402",
       "type": "Incident",
       "category": "XSTORE",
       "subcategory": "ERROR OCCURRED, CALL HELPDESK",
       "agent": "Rituraj .",
       "contact_name": "0402 - LP - San Jose, CA #402",
-      "is_open": true,
+      "is_open": false,
       "territory": "1",
       "region": "1",
       "district": "5",
@@ -308575,7 +308575,7 @@
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-19T23:56:29.000Z",
-      "updated_at": "2026-08-20T00:09:33.000Z",
+      "updated_at": "2026-08-20T01:02:49.000Z",
       "resolved_at": "2026-08-20T00:09:32.000Z",
       "store_number": "117",
       "type": "Incident",
@@ -308639,5 +308639,5 @@
     }
   ],
   "count": 13419,
-  "updated": "2026-08-20T00:53:52.251Z"
+  "updated": "2026-08-20T01:23:50.510Z"
 }
