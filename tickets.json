@@ -313512,8 +313512,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 516993,
+      "subject": "LP - 1276 SKU Resync Failure – Transfer to 6000 Pending",
+      "status_name": "Open",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore Support Supervisors",
+      "created_at": "2026-08-21T18:22:08.000Z",
+      "updated_at": "2026-08-22T02:22:21.000Z",
+      "resolved_at": null,
+      "store_number": "1276",
+      "type": "Incident",
+      "category": "XSTORE",
+      "subcategory": "Store Transfer",
+      "agent": "Unassigned",
+      "contact_name": "1276 - LP - Phoenix, AZ #1276",
+      "is_open": true,
+      "territory": "1",
+      "region": "3",
+      "district": "17",
+      "overdue": false,
+      "l1_response": "Update",
+      "source": "Portal"
     }
   ],
-  "count": 13631,
-  "updated": "2026-08-22T02:24:09.043Z"
+  "count": 13632,
+  "updated": "2026-08-22T02:53:55.082Z"
 }
