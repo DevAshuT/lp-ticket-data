@@ -313539,11 +313539,11 @@
     {
       "id": 516964,
       "subject": "LP-1103 Store transfer stuck in process",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "1-Low",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-21T17:01:11.000Z",
-      "updated_at": "2026-08-23T02:15:29.000Z",
+      "updated_at": "2026-08-23T03:42:52.000Z",
       "resolved_at": null,
       "store_number": "1103",
       "type": "Incident",
@@ -315401,5 +315401,5 @@
     }
   ],
   "count": 13713,
-  "updated": "2026-08-23T03:55:36.208Z"
+  "updated": "2026-08-23T04:24:35.141Z"
 }
