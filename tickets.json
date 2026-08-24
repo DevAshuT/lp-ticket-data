@@ -316851,17 +316851,17 @@
     {
       "id": 517273,
       "subject": "LP - 0436 Accublue meter is not calibrating",
-      "status_name": "Assigned",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-23T23:19:38.000Z",
-      "updated_at": "2026-08-23T23:54:51.000Z",
+      "updated_at": "2026-08-24T00:28:17.000Z",
       "resolved_at": null,
       "store_number": "436",
       "type": "Hardware",
       "category": "Accublue",
       "subcategory": "ANGLE CALIBRATION FAILED",
-      "agent": "Sanjay Singh Rawat",
+      "agent": "Unassigned",
       "contact_name": "0436 - LP - Henderson, NV #436",
       "is_open": true,
       "territory": "1",
@@ -316873,5 +316873,5 @@
     }
   ],
   "count": 13777,
-  "updated": "2026-08-24T00:28:48.984Z"
+  "updated": "2026-08-24T00:59:07.601Z"
 }
