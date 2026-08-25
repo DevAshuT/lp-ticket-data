@@ -315429,7 +315429,7 @@
       "priority_name": "2-Medium",
       "group_name": "LP Internal Support",
       "created_at": "2026-08-23T14:07:28.000Z",
-      "updated_at": "2026-08-24T22:40:43.000Z",
+      "updated_at": "2026-08-25T01:12:37.000Z",
       "resolved_at": null,
       "store_number": "786",
       "type": "Network",
@@ -318488,7 +318488,7 @@
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-25T00:08:03.000Z",
-      "updated_at": "2026-08-25T00:31:17.000Z",
+      "updated_at": "2026-08-25T01:16:30.000Z",
       "resolved_at": null,
       "store_number": "518",
       "type": "Hardware",
@@ -318503,8 +318503,31 @@
       "overdue": false,
       "l1_response": "Update",
       "source": "Portal"
+    },
+    {
+      "id": 517391,
+      "subject": "LP-1276 - Software update failed on R01",
+      "status_name": "Closed",
+      "priority_name": "1-Low",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-25T01:38:21.000Z",
+      "updated_at": "2026-08-25T01:39:29.000Z",
+      "resolved_at": "2026-08-25T01:39:27.000Z",
+      "store_number": "1276",
+      "type": "Incident",
+      "category": "Store Open / Close",
+      "subcategory": "POS POLL UPLOAD FAIL",
+      "agent": "Rahul8 Kumar",
+      "contact_name": "1276 - LP - Phoenix, AZ #1276",
+      "is_open": false,
+      "territory": "1",
+      "region": "3",
+      "district": "17",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 13848,
-  "updated": "2026-08-25T01:23:57.788Z"
+  "count": 13849,
+  "updated": "2026-08-25T01:54:36.656Z"
 }
