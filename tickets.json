@@ -314252,11 +314252,11 @@
     {
       "id": 517109,
       "subject": "LP - 0110 Negative on‑hand quantity in POS and transfer",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "2-Medium",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-22T16:11:42.000Z",
-      "updated_at": "2026-08-25T04:15:25.000Z",
+      "updated_at": "2026-08-25T05:44:41.000Z",
       "resolved_at": null,
       "store_number": "110",
       "type": "Incident",
@@ -317748,11 +317748,11 @@
     {
       "id": 517332,
       "subject": "LP - 957 Accublue Credit not received Issue",
-      "status_name": "Pending Availability",
+      "status_name": "Escalated",
       "priority_name": "1-Low",
-      "group_name": "Xstore Support Supervisors",
+      "group_name": "LP Internal Support",
       "created_at": "2026-08-24T18:20:37.000Z",
-      "updated_at": "2026-08-25T00:15:27.000Z",
+      "updated_at": "2026-08-25T05:42:44.000Z",
       "resolved_at": null,
       "store_number": "957",
       "type": "Incident",
@@ -318529,5 +318529,5 @@
     }
   ],
   "count": 13849,
-  "updated": "2026-08-25T05:54:06.297Z"
+  "updated": "2026-08-25T06:24:20.378Z"
 }
