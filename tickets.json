@@ -320167,7 +320167,7 @@
       "priority_name": "1-Low",
       "group_name": "Xstore L1 Support",
       "created_at": "2026-08-25T20:06:00.000Z",
-      "updated_at": "2026-08-26T12:09:54.000Z",
+      "updated_at": "2026-08-26T12:30:41.000Z",
       "resolved_at": null,
       "store_number": "623",
       "type": "Incident",
@@ -320711,8 +320711,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 517540,
+      "subject": "LP - 80 Register 02 shows system error",
+      "status_name": "Closed",
+      "priority_name": "1-Low",
+      "group_name": "Xstore L1 Support",
+      "created_at": "2026-08-26T12:31:25.000Z",
+      "updated_at": "2026-08-26T12:35:59.000Z",
+      "resolved_at": "2026-08-26T12:35:57.000Z",
+      "store_number": "80",
+      "type": "Incident",
+      "category": "Store Open / Close",
+      "subcategory": "ERROR DOWNLOADING DEPLOYMENTS",
+      "agent": "Rakesh Yadav",
+      "contact_name": "0080 - LP - Cincinnati, OH #80",
+      "is_open": false,
+      "territory": "3",
+      "region": "6",
+      "district": "42",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 13944,
-  "updated": "2026-08-26T12:24:05.856Z"
+  "count": 13945,
+  "updated": "2026-08-26T12:53:55.360Z"
 }
