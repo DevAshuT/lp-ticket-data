@@ -320642,8 +320642,31 @@
       "overdue": false,
       "l1_response": "Create",
       "source": "Phone"
+    },
+    {
+      "id": 517537,
+      "subject": "LP - 511 Pinpad stuck on welcome screen",
+      "status_name": "Resolved",
+      "priority_name": "2-Medium",
+      "group_name": "Xstore L2 Support",
+      "created_at": "2026-08-26T09:46:45.000Z",
+      "updated_at": "2026-08-26T09:47:29.000Z",
+      "resolved_at": "2026-08-26T09:47:26.000Z",
+      "store_number": "511",
+      "type": "Incident",
+      "category": "Pin Pad Offline",
+      "subcategory": "Pinpad Stuck on Welcome Screen",
+      "agent": "Unassigned",
+      "contact_name": "Ali",
+      "is_open": false,
+      "territory": "1",
+      "region": "3",
+      "district": "16",
+      "overdue": false,
+      "l1_response": "Create",
+      "source": "Phone"
     }
   ],
-  "count": 13941,
-  "updated": "2026-08-26T09:56:28.841Z"
+  "count": 13942,
+  "updated": "2026-08-26T10:23:53.919Z"
 }
