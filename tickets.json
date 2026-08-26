@@ -298750,11 +298750,11 @@
     {
       "id": 515967,
       "subject": "LP - 0362 Lexmark printer is not printing properly",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "1-Low",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-15T00:27:53.000Z",
-      "updated_at": "2026-08-25T23:15:27.000Z",
+      "updated_at": "2026-08-26T04:05:28.000Z",
       "resolved_at": null,
       "store_number": "362",
       "type": "Hardware",
@@ -301947,11 +301947,11 @@
     {
       "id": 516181,
       "subject": "LP - 0386 AccuBlue meter is giving inaccurate readings",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-16T22:35:55.000Z",
-      "updated_at": "2026-08-26T01:42:43.000Z",
+      "updated_at": "2026-08-26T04:05:15.000Z",
       "resolved_at": null,
       "store_number": "386",
       "type": "Hardware",
@@ -316805,11 +316805,11 @@
     {
       "id": 517273,
       "subject": "LP - 0436 Accublue meter is not calibrating",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-23T23:19:38.000Z",
-      "updated_at": "2026-08-25T23:15:27.000Z",
+      "updated_at": "2026-08-26T04:05:02.000Z",
       "resolved_at": null,
       "store_number": "436",
       "type": "Hardware",
@@ -318231,11 +318231,11 @@
     {
       "id": 517364,
       "subject": "LP - 775 Unable to access work management in UKG in ELPC",
-      "status_name": "Open",
+      "status_name": "Pending Availability",
       "priority_name": "2-Medium",
       "group_name": "Xstore L2 Support",
       "created_at": "2026-08-24T20:56:41.000Z",
-      "updated_at": "2026-08-25T23:15:27.000Z",
+      "updated_at": "2026-08-26T04:04:50.000Z",
       "resolved_at": null,
       "store_number": "775",
       "type": "Incident",
@@ -320622,5 +320622,5 @@
     }
   ],
   "count": 13940,
-  "updated": "2026-08-26T03:56:18.904Z"
+  "updated": "2026-08-26T04:23:59.278Z"
 }
